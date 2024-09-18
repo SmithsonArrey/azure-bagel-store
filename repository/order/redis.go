@@ -1,4 +1,4 @@
-package order_id
+package order
 
 import (
 	"context"
